@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AroosaAhmed
-- 👀 I’m interested in Software Development
+- 👀 I’m interested in Graduate Software Development roles
 - 🌱 I’m currently learning Software development process and C++ in more detail
 - 💞️ I’m looking to forward to have a bright career is this field
 - 📫 my email is aroosabanoahmed@gmail.com
